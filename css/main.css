@@ -1,0 +1,51 @@
+/*==== Main styles===*/
+html{
+  font-family: 'Helvetica', sans-serif;
+  font-size: 16px;
+  padding: 0 2%;
+}
+
+strong{
+  color: blue;
+  font-weight: bold;
+}
+
+img{
+  border: 1px solid black;
+}
+/*==== header ====*/
+
+h1{
+  background-image: url("../img/img1.jpeg");
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  border: 1px solid black;
+}
+
+/*==== main content ===*/
+
+.header-one{
+  background-color: mediumspringgreen;
+  color: white;
+  padding: 10px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.header-two{
+  background-color: lightcoral;
+  color: white;
+  padding: 10px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.header-three{
+  background-color: skyblue;
+  color: white;
+  padding: 10px;
+  font-size: 32px;
+  font-weight: bold;
+}
